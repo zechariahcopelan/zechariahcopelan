@@ -10,7 +10,7 @@
 
 ## 🚀 Software Engineer | Full-Stack Developer | AI Enthusiast
 
-I'm a passionate software engineer who loves building impactful applications that solve real-world problems. From AI-powered health solutions to infrastructure monitoring tools, I enjoy working across the full technology stack to create user-centric experiences.
+I'm a passionate software engineer who loves building impactful applications that solve practical real-world problems. From AI-powered health solutions to infrastructure monitoring tools, I enjoy working across the full technology stack to create user-centric experiences.
 
 ---
 
