@@ -10,7 +10,7 @@
 
 ## 🚀 Solutions Engineer 1st | Software Engineer 2nd | Full-Stack Developer | AI Enthusiast
 
-I'm a passionate software engineer who loves building impactful applications that solve practical real-world problems. From AI-powered health solutions to infrastructure monitoring tools, I enjoy working across the full technology stack to create user-centric experiences.
+I'm a passionate engineer who loves building impactful applications that solve practical real-world problems. From AI-powered health solutions to infrastructure monitoring tools, I enjoy working across the full technology stack to create user-centric experiences.
 
 ---
 
@@ -96,7 +96,7 @@ current_focus = {
 
 ## 🎯 What I Bring to the Table
 
-- **🏗️ Full-Stack Expertise:** From database design to frontend UX, I build complete solutions
+- **🏗️ Full-Stack Expertise:** From database design to frontend UX, I build complete solutions and continue to grow my skillset
 - **🤖 AI Integration:** Experience implementing machine learning models in production applications
 - **🔧 Problem Solving:** Strong analytical skills with a focus on scalable, maintainable code
 - **📱 Mobile Development:** Native Android development with modern Kotlin practices
