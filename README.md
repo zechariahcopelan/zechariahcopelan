@@ -123,7 +123,7 @@ I'm actively seeking **Software Engineering** roles where I can:
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+"The best engineers don't just build — they preserve. Great technology leaves the world with more than it found.* – David Steward, WWT
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zechariahcopelan&color=0e75b6&style=for-the-badge)
 
