@@ -8,9 +8,9 @@
 
 </div>
 
-## 🚀 Solutions Engineer 1st | Software Engineer 2nd | Full-Stack Developer | AI Enthusiast
+## 🚀 JESUS IS THE LOVER OF MY SOUL | Engineer| ATHLETE | AI Enthusiast
 
-I'm a passionate engineer who loves building impactful applications that solve practical real-world problems. From AI-powered health solutions to infrastructure monitoring tools, I enjoy working across the full technology stack to create user-centric experiences.
+I'm a passionate engineer who loves building impactful applications that solve practical real-world problems. From AI-powered solutions to full-stack infrastructure monitoring tools to data analytics, I enjoy engineering to solve user-focused problems. 
 
 ---
 
@@ -107,7 +107,7 @@ current_focus = {
 
 ## 💡 Open to Opportunities
 
-I'm actively seeking **Software Engineering** roles where I can:
+I'm open to **Engineering** roles where I can:
 - Build innovative products that make a real impact
 - Work with cutting-edge technologies and best practices
 - Collaborate with talented teams on challenging problems
