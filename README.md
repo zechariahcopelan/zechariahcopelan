@@ -54,12 +54,14 @@ I'm a passionate engineer who loves building impactful applications that solve p
 - **Key Features:** Real-time monitoring, vulnerability scanning, automated reporting
 - **Impact:** Proactive infrastructure security and performance optimization
 
-### ☀️ [Sun Exposure App](https://github.com/zechariahcopelan/sun-exposure-app)
-> Mobile health application for safe sun exposure tracking and vitamin D optimization
+### 📊 Legacy Data Migration Pipeline
 
-- **Tech Stack:** Kotlin, Java, SQLite, Android SDK
-- **Key Features:** UV index tracking, personalized exposure recommendations, health insights
-- **Impact:** Promoting safe sun exposure practices for optimal health
+Simulated enterprise-grade ETL pipeline migrating legacy banking transaction data to a modern cloud data warehouse
+
+- **Tech Stack:** Python, Pandas, Azure SQL Database, SSMS, Power BI
+- **Key Features:** Automated data cleaning and validation, audit-column tracking, data quality flagging, live-connected Power BI dashboard reporting
+- **Impact:** Demonstrates a full core-banking-style data migration workflow — from messy legacy source data through cleaning, cloud loading, and business-ready visualization
+  
 
 ---
 
