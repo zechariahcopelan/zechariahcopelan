@@ -10,7 +10,7 @@
 
 ## 🚀 JESUS WAS, IS, and ALWAYS will be... | Engineer | Athlete | Soon-To-Be Husband/Dad | 
 
-I'm a passionate polymath who loves building impactful applications that solve practical real-world problems. From AI-powered solutions to full-stack end-to-end products to data analytics driven solutions; I just enjoy using my engineering acumen to solve user-focused problems in the computer software/hardware space. 
+I'm a passionate monomath who loves building impactful applications that solve practical real-world problems. From AI-powered solutions to full-stack end-to-end products to data analytics driven solutions; I just enjoy using my engineering acumen to solve user-focused problems in the computer software/hardware space. 
 
 ---
 
@@ -103,8 +103,6 @@ current_focus = {
 
 </div>
 
-**Always exploring:** System Design • DevOps • Clean Architecture • Performance Optimization
-
 ---
 
 ## 📊 GitHub Analytics
@@ -120,18 +118,18 @@ current_focus = {
 
 ## 🎯 What I Bring to the Table
 
-- **🏗️ Full-Stack Expertise:** From database design to frontend UX, I build complete solutions and continue to grow my skillset
-- **🤖 AI Integration:** Experience implementing machine learning models in production applications
-- **🔧 Problem Solving:** Strong analytical skills with a focus on scalable, maintainable code
+- **🏗️ Full-Stack Expertise:** I build complete solutions
+- **🤖 AI Integration:** Still a new frontier. But what is the goal? (not a rhetorical question)
+- **🔧 Problem Solving:** Strong engineering skills with a focus on scalable, maintainable, fault code tolerant/resistant code.
 - **📱 Mobile Development:** Native Android development with modern Kotlin practices
 - **☁️ Cloud Architecture:** Experience with AWS services and containerized deployments
-- **🚀 Performance Focus:** Passionate about writing efficient, optimized code that scales
+- **🚀 Performance Focus:** Passionate about writing efficient, optimized code that scales for Fortune 500 companies
 
 ---
 
 ## 💡 Open to Opportunities
 
-I'm open to **Engineering** roles where I can:
+I'm open to roles where I can:
 - Build innovative products that make a real impact
 - Work with cutting-edge technologies and best practices
 - Collaborate with talented teams on challenging problems
@@ -147,7 +145,7 @@ I'm open to **Engineering** roles where I can:
 
 ---
 
-"The best engineers don't just build — they preserve. Great technology leaves the world with more than it found.* – David Steward, WWT
+"The best engineers don't just build — they preserve. Great technology leaves the world with more than it found." – David Steward, WWT
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zechariahcopelan&color=0e75b6&style=for-the-badge)
 
