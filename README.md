@@ -38,16 +38,25 @@ I'm a passionate polymath who loves building impactful applications that solve p
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### API Design
 ![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-C73A63?style=for-the-badge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![AsyncAPI](https://img.shields.io/badge/AsyncAPI-E91E63?style=for-the-badge&logo=asyncapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+Desktop: Windows, macOS, Linux, ChromeOS
+Mobile: Android, iOS, HarmonyOS
+Server/cloud: Linux, Windows Server, BSD, Unix
+Embedded: RTOS, Embedded Linux
 
 ---
 
