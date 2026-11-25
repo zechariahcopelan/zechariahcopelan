@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 JESUS WAS, IS, and ALWAYS will be... | Engineer | Athlete | Soon-To-Be Husband/Dad | 
+## 🚀 JESUS WAS, IS, and ALWAYS will be... | Engineer | Athlete | Soon-To-Be Husband | 
 
 I'm a passionate monomath who loves building impactful applications that solve practical real-world problems. From AI-powered solutions to full-stack end-to-end products to data analytics driven solutions; I just enjoy using my engineering acumen to solve user-focused problems in the computer software/hardware space. 
 
